@@ -1,0 +1,46 @@
+category,product_name,list_price,average_price_comparison,average_price,median_price_comparison,median_price
+"Baked Goods & Mixes","Northwind Traders Brownie Mix",12.4900,"> AVG",11.92000000,"> MED",11.24500000
+"Baked Goods & Mixes","Northwind Traders Cake Mix",15.9900,"> AVG",11.92000000,"> MED",11.24500000
+"Baked Goods & Mixes","Northwind Traders Chocolate Biscuits Mix",9.2000,"< AVG",11.92000000,"< MED",11.24500000
+"Baked Goods & Mixes","Northwind Traders Scones",10.0000,"< AVG",11.92000000,"< MED",11.24500000
+Beverages,"Northwind Traders Beer",14.0000,"< AVG",16.99800000,"= MED",14.00000000
+Beverages,"Northwind Traders Chai",18.0000,"> AVG",16.99800000,"> MED",14.00000000
+Beverages,"Northwind Traders Coffee",46.0000,"> AVG",16.99800000,"> MED",14.00000000
+Beverages,"Northwind Traders Green Tea",2.9900,"< AVG",16.99800000,"< MED",14.00000000
+Beverages,"Northwind Traders Tea",4.0000,"< AVG",16.99800000,"< MED",14.00000000
+Candy,"Northwind Traders Chocolate",12.7500,"= AVG",12.75000000,"= MED",12.75000000
+"Canned Fruit & Vegetables","Northwind Traders Cherry Pie Filling",2.0000,"< AVG",6.18750000,"> MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Corn",1.2000,"< AVG",6.18750000,"< MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Fruit Cocktail",39.0000,"> AVG",6.18750000,"> MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Green Beans",1.2000,"< AVG",6.18750000,"< MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Peaches",1.5000,"< AVG",6.18750000,"= MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Pears",1.3000,"< AVG",6.18750000,"< MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Peas",1.5000,"< AVG",6.18750000,"= MED",1.50000000
+"Canned Fruit & Vegetables","Northwind Traders Pineapple",1.8000,"< AVG",6.18750000,"> MED",1.50000000
+"Canned Meat","Northwind Traders Crab Meat",18.4000,"> AVG",8.13333333,"> MED",4.00000000
+"Canned Meat","Northwind Traders Smoked Salmon",4.0000,"< AVG",8.13333333,"= MED",4.00000000
+"Canned Meat","Northwind Traders Tuna Fish",2.0000,"< AVG",8.13333333,"< MED",4.00000000
+Cereal,"Northwind Traders Granola",4.0000,"< AVG",4.50000000,"< MED",4.50000000
+Cereal,"Northwind Traders Hot Cereal",5.0000,"> AVG",4.50000000,"> MED",4.50000000
+"Chips, Snacks","Northwind Traders Potato Chips",1.8000,"= AVG",1.80000000,"= MED",1.80000000
+Condiments,"Northwind Traders Cajun Seasoning",22.0000,"> AVG",15.00000000,"> MED",13.00000000
+Condiments,"Northwind Traders Mustard",13.0000,"< AVG",15.00000000,"= MED",13.00000000
+Condiments,"Northwind Traders Syrup",10.0000,"< AVG",15.00000000,"< MED",13.00000000
+"Dairy products","Northwind Traders Mozzarella",34.8000,"= AVG",34.80000000,"= MED",34.80000000
+"Dried Fruit & Nuts","Northwind Traders Almonds",10.0000,"< AVG",23.95000000,"< MED",23.25000000
+"Dried Fruit & Nuts","Northwind Traders Dried Apples",53.0000,"> AVG",23.95000000,"> MED",23.25000000
+"Dried Fruit & Nuts","Northwind Traders Dried Pears",30.0000,"> AVG",23.95000000,"> MED",23.25000000
+"Dried Fruit & Nuts","Northwind Traders Dried Plums",3.5000,"< AVG",23.95000000,"< MED",23.25000000
+"Dried Fruit & Nuts","Northwind Traders Walnuts",23.2500,"< AVG",23.95000000,"= MED",23.25000000
+Grains,"Northwind Traders Long Grain Rice",7.0000,"= AVG",7.00000000,"= MED",7.00000000
+"Jams, Preserves","Northwind Traders Boysenberry Spread",25.0000,"< AVG",53.00000000,"< MED",53.00000000
+"Jams, Preserves","Northwind Traders Marmalade",81.0000,"> AVG",53.00000000,"> MED",53.00000000
+Oil,"Northwind Traders Olive Oil",21.3500,"= AVG",21.35000000,"= MED",21.35000000
+Pasta,"Northwind Traders Gnocchi",38.0000,"> AVG",28.75000000,"> MED",28.75000000
+Pasta,"Northwind Traders Ravioli",19.5000,"< AVG",28.75000000,"< MED",28.75000000
+Sauces,"Northwind Traders Curry Sauce",40.0000,"> AVG",26.01666667,"> MED",21.05000000
+Sauces,"Northwind Traders Hot Pepper Sauce",21.0500,"< AVG",26.01666667,"= MED",21.05000000
+Sauces,"Northwind Traders Tomato Sauce",17.0000,"< AVG",26.01666667,"< MED",21.05000000
+Soups,"Northwind Traders Chicken Soup",1.9500,"< AVG",4.49666667,"= MED",1.95000000
+Soups,"Northwind Traders Clam Chowder",9.6500,"> AVG",4.49666667,"> MED",1.95000000
+Soups,"Northwind Traders Vegetable Soup",1.8900,"< AVG",4.49666667,"< MED",1.95000000

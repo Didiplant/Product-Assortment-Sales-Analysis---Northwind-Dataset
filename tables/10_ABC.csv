@@ -1,0 +1,25 @@
+id,product_name,revenue,revenue_share_percent,cumulative_share_percent,abc_category
+43,"Northwind Traders Coffee",14950,29.95,29.95,A
+34,"Northwind Traders Beer",6818,13.66,43.61,A
+20,"Northwind Traders Marmalade",3240,6.49,50.1,A
+72,"Northwind Traders Mozzarella",3132,6.28,56.38,A
+41,"Northwind Traders Clam Chowder",2798.5,5.61,61.99,A
+48,"Northwind Traders Chocolate",2550,5.11,67.09,A
+6,"Northwind Traders Boysenberry Spread",2250,4.51,71.6,A
+51,"Northwind Traders Dried Apples",2120,4.25,75.85,A
+57,"Northwind Traders Ravioli",1950,3.91,79.76,A
+8,"Northwind Traders Curry Sauce",1800,3.61,83.36,B
+17,"Northwind Traders Fruit Cocktail",1560,3.13,86.49,B
+40,"Northwind Traders Crab Meat",1472,2.95,89.44,B
+7,"Northwind Traders Dried Pears",1200,2.4,91.84,B
+19,"Northwind Traders Chocolate Biscuits Mix",690,1.38,93.22,B
+4,"Northwind Traders Cajun Seasoning",660,1.32,94.55,B
+81,"Northwind Traders Green Tea",598,1.2,95.75,C
+5,"Northwind Traders Olive Oil",533.75,1.07,96.81,C
+3,"Northwind Traders Syrup",500,1,97.82,C
+52,"Northwind Traders Long Grain Rice",280,0.56,98.38,C
+1,"Northwind Traders Chai",270,0.54,98.92,C
+21,"Northwind Traders Scones",200,0.4,99.72,C
+74,"Northwind Traders Almonds",200,0.4,99.72,C
+80,"Northwind Traders Dried Plums",140,0.28,100,C
+56,"Northwind Traders Gnocchi",0,0,100,C
